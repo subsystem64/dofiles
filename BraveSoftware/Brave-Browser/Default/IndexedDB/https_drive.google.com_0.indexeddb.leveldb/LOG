@@ -1,0 +1,12 @@
+2021/12/13-14:52:54.090 95cd Reusing MANIFEST /home/system64/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-14:52:54.091 95cd Recovering log #4
+2021/12/13-14:52:54.092 95cd Reusing old log /home/system64/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2021/12/13-18:11:25.130 126cd Level-0 table #8: started
+2021/12/13-18:11:25.159 126cd Level-0 table #8: 4008643 bytes OK
+2021/12/13-18:11:25.165 126cd Delete type=0 #4
+2021/12/13-21:38:37.342 1e3e3 Compacting 1@1 + 1@2 files
+2021/12/13-21:38:37.402 1e3e3 Generated table #9@1: 105 keys, 275422 bytes
+2021/12/13-21:38:37.402 1e3e3 Compacted 1@1 + 1@2 files => 275422 bytes
+2021/12/13-21:38:37.402 1e3e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/13-21:38:37.403 1e3e3 Delete type=2 #8
+2021/12/13-21:38:37.403 1e3e3 Delete type=2 #5

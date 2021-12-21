@@ -1,0 +1,30 @@
+2021/12/13-09:20:15.971 1945 Creating DB /home/system64/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.commonlit.org_0.indexeddb.leveldb since it was missing.
+2021/12/13-09:20:15.973 1945 Reusing MANIFEST /home/system64/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.commonlit.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-09:20:17.122 1945 Level-0 table #5: started
+2021/12/13-09:20:17.123 1945 Level-0 table #5: 7425 bytes OK
+2021/12/13-09:20:17.124 1945 Delete type=0 #3
+2021/12/13-09:20:17.125 1945 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/13-09:20:17.140 1d4d Level-0 table #7: started
+2021/12/13-09:20:17.141 1d4d Level-0 table #7: 2401 bytes OK
+2021/12/13-09:20:17.141 1d4d Delete type=0 #4
+2021/12/13-09:20:17.142 1d4d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/13-09:20:17.142 1d4d Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x04\x02\x01\x0a\x00m\x00e\x00t\x00a\x00-\x00s\x00t\x00o\x00r\x00e' @ 700 : 1
+2021/12/13-09:20:17.142 1d4d Compacting 1@1 + 1@2 files
+2021/12/13-09:20:17.143 1d4d Generated table #8@1: 7 keys, 282 bytes
+2021/12/13-09:20:17.143 1d4d Compacted 1@1 + 1@2 files => 282 bytes
+2021/12/13-09:20:17.144 1d4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/13-09:20:17.144 1d4d Delete type=2 #7
+2021/12/13-09:20:17.144 1d4d Manual compaction at level-1 from '\x00\x02\x04\x02\x01\x0a\x00m\x00e\x00t\x00a\x00-\x00s\x00t\x00o\x00r\x00e' @ 700 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/13-09:20:19.146 1d4d Level-0 table #10: started
+2021/12/13-09:20:19.147 1d4d Level-0 table #10: 256 bytes OK
+2021/12/13-09:20:19.147 1d4d Delete type=0 #6
+2021/12/13-09:20:19.147 1d4d Delete type=2 #5
+2021/12/13-09:20:19.148 1d4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/13-09:20:19.148 1d4d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 801 : 0
+2021/12/13-09:20:19.148 1d4d Compacting 1@1 + 1@2 files
+2021/12/13-09:20:19.148 1d4d Generated table #11@1: 7 keys, 263 bytes
+2021/12/13-09:20:19.148 1d4d Compacted 1@1 + 1@2 files => 263 bytes
+2021/12/13-09:20:19.149 1d4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/13-09:20:19.149 1d4d Delete type=2 #8
+2021/12/13-09:20:19.149 1d4d Delete type=2 #10
+2021/12/13-09:20:19.149 1d4d Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 801 : 0 .. (end); will stop at (end)

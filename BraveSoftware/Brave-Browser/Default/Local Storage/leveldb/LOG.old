@@ -1,0 +1,51 @@
+2021/12/13-14:06:12.768 5 Reusing MANIFEST /home/system64/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/13-14:06:12.771 5 Recovering log #16
+2021/12/13-14:06:12.772 5 Reusing old log /home/system64/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000016.log 
+2021/12/13-14:09:57.403 5 Level-0 table #21: started
+2021/12/13-14:09:57.419 5 Level-0 table #21: 453977 bytes OK
+2021/12/13-14:09:57.422 5 Delete type=0 #16
+2021/12/13-20:30:16.750 30 Level-0 table #23: started
+2021/12/13-20:30:16.775 30 Level-0 table #23: 364078 bytes OK
+2021/12/13-20:30:16.779 30 Delete type=0 #20
+2021/12/13-20:59:41.056 33 Level-0 table #25: started
+2021/12/13-20:59:41.084 33 Level-0 table #25: 358636 bytes OK
+2021/12/13-20:59:41.089 33 Delete type=0 #22
+2021/12/13-21:01:55.083 35 Level-0 table #27: started
+2021/12/13-21:01:55.097 35 Level-0 table #27: 50798 bytes OK
+2021/12/13-21:01:55.104 35 Delete type=0 #24
+2021/12/13-21:01:55.106 35 Compacting 4@0 + 1@1 files
+2021/12/13-21:01:55.180 35 Generated table #28@0: 161 keys, 881761 bytes
+2021/12/13-21:01:55.180 35 Compacted 4@0 + 1@1 files => 881761 bytes
+2021/12/13-21:01:55.181 35 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/13-21:01:55.182 35 Delete type=2 #18
+2021/12/13-21:01:55.182 35 Delete type=2 #25
+2021/12/13-21:01:55.183 35 Delete type=2 #21
+2021/12/13-21:01:55.183 35 Delete type=2 #23
+2021/12/13-21:01:55.183 35 Delete type=2 #27
+2021/12/13-21:02:55.082 37 Level-0 table #30: started
+2021/12/13-21:02:55.092 37 Level-0 table #30: 43977 bytes OK
+2021/12/13-21:02:55.095 37 Delete type=0 #26
+2021/12/13-21:03:55.080 37 Level-0 table #32: started
+2021/12/13-21:03:55.088 37 Level-0 table #32: 40828 bytes OK
+2021/12/13-21:03:55.091 37 Delete type=0 #29
+2021/12/13-21:05:55.081 3c Level-0 table #34: started
+2021/12/13-21:05:55.091 3c Level-0 table #34: 30826 bytes OK
+2021/12/13-21:05:55.095 3c Delete type=0 #31
+2021/12/13-21:06:55.081 3e Level-0 table #36: started
+2021/12/13-21:06:55.093 3e Level-0 table #36: 26778 bytes OK
+2021/12/13-21:06:55.098 3e Delete type=0 #33
+2021/12/13-21:06:55.100 3e Compacting 4@0 + 1@1 files
+2021/12/13-21:06:55.159 3e Generated table #37@0: 161 keys, 859352 bytes
+2021/12/13-21:06:55.159 3e Compacted 4@0 + 1@1 files => 859352 bytes
+2021/12/13-21:06:55.160 3e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/13-21:06:55.161 3e Delete type=2 #32
+2021/12/13-21:06:55.161 3e Delete type=2 #28
+2021/12/13-21:06:55.161 3e Delete type=2 #34
+2021/12/13-21:06:55.161 3e Delete type=2 #30
+2021/12/13-21:06:55.162 3e Delete type=2 #36
+2021/12/13-21:07:47.542 40 Level-0 table #39: started
+2021/12/13-21:07:47.552 40 Level-0 table #39: 24433 bytes OK
+2021/12/13-21:07:47.557 40 Delete type=0 #35
+2021/12/13-21:19:06.899 40 Level-0 table #41: started
+2021/12/13-21:19:06.907 40 Level-0 table #41: 87789 bytes OK
+2021/12/13-21:19:06.912 40 Delete type=0 #38
